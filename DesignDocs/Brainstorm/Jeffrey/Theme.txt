@@ -1,0 +1,37 @@
+Possible theme ideas
+
+
+General fantasy:
+Guardian is a kind of mystical creature guarding magical essence (crystals?), while seekers are arcanists of some kind seeking to steal the essence
+Pros:
+- Allows basically any form of map to fit the style (caverns, forests, mountains, ruins, valleys)
+- Generally easy to create assets for and fit a general art style
+- Easy to fill in any type of ability (teleportation, magic, melee/range combat)
+- Very open in terms of acceptable atmospheric style/music style
+- Gives lots of space for suspended realism
+Cons:
+- Potentially cliche
+- Locks out firearms
+
+
+Steampunk/Robotech:
+Guardian is a large contraption protecting critical components, while salvagers attempt to steal them
+Pros: 
+- Awesome
+Cons:
+- Difficult to make look convincing
+- Thematically strict
+- Restricts abilities to something that would fit
+- Artistically demanding
+
+
+General Sci-Fi
+Guardian is some form of guardian (duh), while treasure hunters attempt to steal from him
+Pros:
+- Gives a lot of artistic freedom to do whatever it is we want to do.
+- Complete freedom over map development, if we can think of it, it exists
+Cons:
+- Harder to wrap everything together into a convincing setting, especially without a lot of exposition
+- Potentially boring
+
+

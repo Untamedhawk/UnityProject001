@@ -1,0 +1,49 @@
+Ability slots:
+Problem: seekers have potential to stack abilities of same type to completely outclass guardian in a certain aspect
+- Example:
+	All three seekers take all mobility abilities, rendering them basically impossible to catch, especially if guardian didn't focus much on mobility
+	All three seekers take all utility abilities, allowing them to potentially perma-cc the guardian, which would really suck for the guardian.
+
+Potential solutions:
+
+1:
+Each ability has an affinity of some kind. all abilities that affect speed can have a yellow tag, all abilities that affect teleportation/transportation could have a blue tag, etc.
+At the beginning of the round the seekers choose a weapon that has a fixed number of slots for abilities,
+- Example: 
+	Given the following slots:
+	- yellow: Mobility
+	- blue: Teleportation/Displacement
+	- red: Damage/CC
+	- green: Utility
+	- white: Any of the above
+	- purple: Ultimate
+	- black: Any of the above
+
+	5 items to choose from. 
+		Staff of Mobility: (lots of movement, little else)
+			Slot1: yellow
+			Slot2: yellow
+			Slot3: green/red/blue
+			Slot4: black
+		Explosive Wand:	(lots of damage, little movement)
+			Slot1: red
+			Slot2: red/green
+			Slot3: white
+			Slot4: purple
+		Mysterious Stick: (less slots, lots of versatility)
+			Slot1: white
+			Slot2: white
+			Slot3: white
+		Obsidian Stone: (potential of two ultimate in exchange for little else)
+			Slot1: green
+			Slot2: purple
+			Slot3: black
+		Stone Sceptre: (no ultimate in exchange for 5 slots)
+			Slot1: yellow
+			Slot2: blue
+			Slot3: red
+			Slot4: green
+			Slot5: white
+
+Given a situation above, where seekers are unable to select duplicate items, they would be far less able to min-max and overpower the guardian via a specific set of cheese. 
+It's fully possible to have a similar item set for the guardian, and item selection/ability selection could work in a draft-pick/blind-pick format as well.

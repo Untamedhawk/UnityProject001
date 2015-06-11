@@ -1,0 +1,28 @@
+What are some entities that a map will contain?
+
+Tall grass
+- Tall enough that a seeker standing still will be almost impossible to see unless standing nearby
+- moves slightly when a seeker is moving through it
+- potental synergy with certain seeker abilities (clone that ocasionally disturbs the grass to fake the appearence of a seeker)
+
+Tunnels
+- Around the external parts of the map far from objectives that allow seekers to reposition themselves without the guardian being able to camp spawn points
+
+Rally Auras
+- Objectives capturable that give small global advantages to whoever owns them.
+
+Gateways
+- Guardians have the ability to lock a percentage of gateways at any one time
+- Example: 5 possible attack directions on the map, guardian capable of visiting and locking any two at any one time
+- Requires a very long time to breach, while giving guardian a notification that someone is attempting to break a gateway
+
+Special terrain interactions
+- Example: 
+	Sand always leaving visible footprints for 30ish seconds
+	metal making loud noise hearable by all nearby
+	marsh slowing movespeed
+
+Special scene interactions
+- Example:
+	Seekers that make contact with a thornbush leaves a piece of cloth on it that the guardian would be alerted to in some way with some sort of indicator of how long ago it was
+	
